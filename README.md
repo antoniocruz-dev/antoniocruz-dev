@@ -1,7 +1,9 @@
 <h2 align="center">Olá 👋! Sou o Antonio Cruz, Seja bem vindo (a) ao meu Git HUb.</h2>
 
 ###
-
+<br/>
+<br/>
+<h3 align="left">Minhas redes sociais</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/ascruz84/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -13,9 +15,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
+<br/>
+<br/>
+<h3 align="left">Linguagens e Tecnologias</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -29,6 +31,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
+  
+  <br/>
+<br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
