@@ -132,7 +132,7 @@ Me chamo Antonio Cruz, tenho 40 anos e sou natural de Pindaré Mirim - MA. Concl
 
 ### 📊 Estatísticas
 
-<p>
+<!--<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -148,5 +148,6 @@ Me chamo Antonio Cruz, tenho 40 anos e sou natural de Pindaré Mirim - MA. Concl
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocruz-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p>-->
+
 
