@@ -12,11 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Bem vindo(a) 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Tecnologias e linguagens.</h3>
 
 ###
 
