@@ -31,15 +31,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  Sobre mim:</h3>
 
 ###
 
-<p align="left">Sou desenvolvedor web fullstack em desenvolvimento.<br><br>- 🔭 Atualmente sou Tech Lead em equipes de implantação de tecnologias LTE (Telecomunicações).<br>- 📚 Dev em Dev<br>- ⚡ No meu tempo livre gosto de patinar (in-line).</p>
+<p align="left">Sou desenvolvedor web fullstack em desenvolvimento:<br><br>- 🔭 Atualmente sou Tech Lead em equipes de implantação de tecnologias LTE (Telecomunicações);<br>- 📚 Dev em Dev;<br>- ⚡ No meu tempo livre gosto de patinar (in-line).</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramemtas.</h3>
+<h3 align="left">🛠 Linguagens e ferramemtas:</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Minhas estatísticas: :</h3>
 
 ###
 
