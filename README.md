@@ -14,7 +14,7 @@
   <a href="https://web.whatsapp.com/94991438580" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="ascruz.ads@gmail.com" target="_blank">
+  <a href="[ascruz.ads@gmail.com](https://mail.google.com/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
