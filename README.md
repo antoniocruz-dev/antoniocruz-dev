@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Sou desenvolvedor web fullstack em desenvolvimento:<br><br>- 🔭 Atualmente sou Tech Lead em equipes de implantação de tecnologias LTE (Telecomunicações);<br>- 📚 Dev em Dev;<br>- ⚡ No meu tempo livre gosto de patinar (in-line).</p>
+<p align="left">Desenvolvedor web fullstack, Arquiteto de Software com IA- 🔭 Tech Lead;<br>- 📚 Análise e Desenvolvimento de Sistemas;<br>- ⚡ Ptinador (in-line).</p>
 
 ###
 
