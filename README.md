@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🏛️ Arquiteto de Software com IA;<br>-👨‍💻 Desenvolvedor web fullstack com IA;<br>- 🧑‍💼 Tech Lead;<br>-💻 Análise e Desenvolvimento de Sistemas;<br>-🛼 Ptinador (in-line).</p>
+<p align="left">-🏛️ Arquiteto de Software com IA;<br>-👨‍💻 Desenvolvedor web Full Stack com IA;<br>-🧑‍💼 Tech Lead;<br>-💻 Análise e Desenvolvimento de Sistemas;<br>-🛼 Ptinador (in-line).</p>
 
 ###
 
